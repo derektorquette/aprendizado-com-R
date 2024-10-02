@@ -1,0 +1,9 @@
+---- 
+Formação Cientista de Dados - Prof. Fernando Amaral 
+Aula: Aspectos Diversos 
+----
+
+Diretório de Trabalho
+```{r}
+getwd() # ver o diretório 
+# setwd()` mudar o diretório
